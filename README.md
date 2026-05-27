@@ -1,7 +1,24 @@
-<h1 align="center">Fabricio Lima</h1>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=65f794&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=shark&color=0:65f794,100:2ecc71&height=180&section=header&text=Gustavo%20França&fontSize=50&animation=fadeIn)
 
-<p align="center">
-  Futuro Back end Java • Entusiasta de Programação de Sistemas
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=65f794&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+;But+you+can+call+me+Gussffy;I'm+Java+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1D20,100:5E5F5B&height=120§ion=footer&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
+  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+### Tools:
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
+
+### Studying in this moment:
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F)&nbsp;  
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=65f794&height=10&section=footer&reversal=true"/>
