@@ -8,7 +8,6 @@
   <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
