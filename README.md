@@ -1,6 +1,6 @@
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=shark&color=0:65f794,100:2ecc71&height=180&section=header&text=Fabricio%20Lima&fontSize=50&animation=fadeIn)
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=header"/>](https://capsule-render.vercel.app/api?type=shark&color=0:EE82EE,100:2ecc71&height=180&section=header&text=Fabricio%20Lima&fontSize=50&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=65f794&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Gustavo+;But+you+can+call+me+Gussffy;I'm+Future+Java+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=65f794&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Fabricio+;But+you+can+call+me+Fabs;I'm+Future+Java+Backend+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gussffy/Gussffy/output/github-contribution-grid-snake-dark.svg">
@@ -21,4 +21,4 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=65f794&height=10&section=footer&reversal=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=EE82EE&height=10&section=footer&reversal=true"/>
