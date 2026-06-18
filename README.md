@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oFaabs/oFaabs/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oFaabs/oFaabs/output/github-contribution-grid-snake.svg">
-  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oFaabs/oFaabs/output/github-contribution-grid-snake.svg">
+  <img width=100% alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oFaabs/oFaabs/output/github-contribution-gridsnake.svg">
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=8B008B&height=10&section=footer&reversal=true"/>
