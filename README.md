@@ -21,5 +21,5 @@
 
 ### 📫 Reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciolima04/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciolima04)
 - 📧 fabricio2007007@gmail.com
