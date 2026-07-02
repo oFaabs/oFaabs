@@ -18,3 +18,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=8B008B&height=10&section=footer&reversal=true"/>
+
+### 📫 Reach me
+
+- 💼 [LinkedIn](fabriciolima04)
+- 📧 fabricio2007007@gmail.com
